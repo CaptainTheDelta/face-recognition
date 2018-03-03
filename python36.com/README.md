@@ -1,0 +1,1 @@
+A utiliser avec opencv-contrib-python
